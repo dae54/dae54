@@ -1,7 +1,7 @@
- # 🐎 I'm Ernest Daniel 
+ # I'm Daniel Ernest 
 
 <!-- ### Status -->
-### Passion, Commitment and Readyness
+### It starts with you!!
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dae54&show_icons=true&theme=light&count_private=true)
